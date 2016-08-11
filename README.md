@@ -1,9 +1,10 @@
 # gulp-noop
-simple no-operation plugin for [gulp](http://gulpjs.com/)
 
 [![GitHub version](https://badge.fury.io/gh/eisbehr-%2Fgulp-noop.svg)](http://github.com/eisbehr-/gulp-noop)
 [![NPM version](https://badge.fury.io/js/gulp-noop.svg)](http://www.npmjs.org/package/gulp-noop)
 [![Dependencies Status](https://david-dm.org/eisbehr-/gulp-noop/status.svg)](https://david-dm.org/eisbehr-/gulp-noop)
+
+simple no-operation plugin for [gulp](http://gulpjs.com/)
 
 -----
 
