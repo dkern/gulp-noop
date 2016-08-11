@@ -1,6 +1,6 @@
 /*!
  * gulp-noop
- * simple no-operation extension for gulp
+ * simple no-operation plugin for gulp
  */
 
 "use strict";
