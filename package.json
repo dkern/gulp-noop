@@ -1,0 +1,28 @@
+{
+  "name": "gulp-noop",
+  "description": "simple no-operation plugin for gulp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eisbehr-/gulp-noop",
+  "bugs": "http://github.com/eisbehr-/gulp-noop/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eisbehr-/gulp-noop.git"
+  },
+  "author": {
+    "name": "Daniel 'Eisbehr' Kern",
+    "email": "jquery@eisbehr.de",
+    "url": "http://eisbehr.de/"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "noop"
+  ],
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
