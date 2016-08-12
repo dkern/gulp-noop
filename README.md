@@ -18,6 +18,7 @@ If not, this plugin is a smaller and lighter alternative. :)
 ```SH
 $ npm install --save-dev gulp-noop
 ```
+[![NPM](https://nodei.co/npm/gulp-noop.png?compact=true)](https://nodei.co/npm/gulp-noop/)
 
 
 ## Example
