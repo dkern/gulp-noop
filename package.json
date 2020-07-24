@@ -1,12 +1,12 @@
 {
   "name": "gulp-noop",
   "description": "simple no-operation plugin for gulp",
-  "version": "1.0.0",
-  "homepage": "https://github.com/eisbehr-/gulp-noop",
-  "bugs": "http://github.com/eisbehr-/gulp-noop/issues",
+  "version": "1.0.1",
+  "homepage": "https://github.com/dkern/gulp-noop",
+  "bugs": "http://github.com/dkern/gulp-noop/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:eisbehr-/gulp-noop.git"
+    "url": "git@github.com:dkern/gulp-noop.git"
   },
   "author": {
     "name": "Daniel 'Eisbehr' Kern",
@@ -20,7 +20,7 @@
     "noop"
   ],
   "dependencies": {
-    "through2": "^2.0.1"
+    "through2": "^2.0.0"
   },
   "engines": {
     "node": ">=0.10"
